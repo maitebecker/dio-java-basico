@@ -5,7 +5,7 @@
 * <b>Note:</b> Leia atentamente a documentação desta classes
 * para desfrutar dos recursos oferecidos pelo autor
 *
-* @author  Gleyson Sampaio
+* @author  Maite Becker
 * @version 1.0
 * @since   13/05/2024
 */
